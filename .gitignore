@@ -1,0 +1,35 @@
+# Log files
+*.log
+
+# Cache files
+*-cache.json
+document-parse-cache.json
+security-scan-cache.json
+
+# Data files (can be regenerated)
+dashboard-projects-data.json
+security-report.json
+aggregated-todos.json
+todo-cache.json
+
+# Process ID files
+*.pid
+
+# Backup directory
+backups/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Local config files that might contain sensitive info
+*-config.json

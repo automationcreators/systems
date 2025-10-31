@@ -1,0 +1,80 @@
+{
+  "security_overview": {
+    "overall_score": 71.8,
+    "status": "good",
+    "total_projects": 22,
+    "last_scan": "2025-08-26T21:36:59.427198"
+  },
+  "issue_summary": {
+    "critical": 16,
+    "medium": 43,
+    "low": 2,
+    "total": 61
+  },
+  "vault_status": {
+    "vault_exists": true,
+    "encrypted_files": 0,
+    "last_audit": null,
+    "access_frequency": 0,
+    "security_issues": []
+  },
+  "top_recommendations": [
+    "Overall security score is low - prioritize security improvements",
+    "Address 16 critical security issues immediately",
+    "Consider using vault system to store sensitive credentials",
+    "Security monitoring approaching token budget limit"
+  ],
+  "compliance": {
+    "personal_security": {
+      "score": 30,
+      "requirements": [
+        "Resolve critical security issues",
+        "Improve overall security score"
+      ]
+    },
+    "data_protection": {
+      "score": 10,
+      "requirements": [
+        "Remove all exposed secrets from code",
+        "Secure all .env files"
+      ]
+    }
+  },
+  "recent_projects": [
+    {
+      "name": "OwnerScraper",
+      "score": 0,
+      "status": "critical",
+      "issue_count": 14,
+      "critical_issues": 11
+    },
+    {
+      "name": "Personal-OS",
+      "score": 40,
+      "status": "critical",
+      "issue_count": 4,
+      "critical_issues": 2
+    },
+    {
+      "name": "scrapers",
+      "score": 40,
+      "status": "critical",
+      "issue_count": 4,
+      "critical_issues": 2
+    },
+    {
+      "name": "ContentGen",
+      "score": 45,
+      "status": "critical",
+      "issue_count": 4,
+      "critical_issues": 1
+    },
+    {
+      "name": "JoblistingsAnalysis",
+      "score": 75,
+      "status": "warning",
+      "issue_count": 3,
+      "critical_issues": 0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "base": {
+    "description": "Base template for all projects",
+    "parent": null,
+    "files": [
+      "CLAUDE.md",
+      "TODO.md"
+    ],
+    "variables": {
+      "PROJECT_NAME": "Project Name",
+      "PROJECT_TYPE": "Project Type",
+      "CREATED_DATE": "Creation Date",
+      "SECURITY_LEVEL": "Security Level"
+    }
+  },
+  "development": {
+    "description": "Software development projects",
+    "parent": "base",
+    "files": [
+      "README.md",
+      ".gitignore",
+      "requirements.txt"
+    ],
+    "variables": {
+      "FRAMEWORK": "Development Framework",
+      "LANGUAGE": "Programming Language"
+    }
+  },
+  "claude-project": {
+    "description": "Claude Code projects with enhanced context",
+    "parent": "base",
+    "files": [
+      "HANDOFFS.md",
+      "SECURITY.md"
+    ],
+    "variables": {
+      "CLAUDE_CONTEXT": "Claude-specific context",
+      "PROJECT_GOALS": "Project objectives"
+    }
+  },
+  "data-analysis": {
+    "description": "Data analysis and research projects",
+    "parent": "base",
+    "files": [
+      "data-notes.md",
+      "analysis-log.md"
+    ],
+    "variables": {
+      "DATA_SOURCES": "Data sources",
+      "ANALYSIS_TYPE": "Type of analysis"
+    }
+  },
+  "system-tool": {
+    "description": "Personal productivity tools",
+    "parent": "development",
+    "files": [
+      "ARCHITECTURE.md",
+      "DEPLOYMENT.md"
+    ],
+    "variables": {
+      "TOOL_PURPOSE": "Tool's primary purpose",
+      "INTEGRATION_POINTS": "System integrations"
+    }
+  }
+}

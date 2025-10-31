@@ -1,0 +1,299 @@
+{
+  "pending_updates": [
+    {
+      "project_id": "chromeSkooldwl",
+      "action": "update",
+      "data": {
+        "id": "chromeSkooldwl",
+        "name": "chromeSkooldwl",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/chromeSkooldwl",
+        "discovered_at": "2025-09-04T09:04:16.046457",
+        "type": "development-nodejs",
+        "status": "active",
+        "last_modified": "2025-09-04T09:01:26.889430"
+      },
+      "timestamp": "2025-09-04T09:04:16.047440"
+    },
+    {
+      "project_id": "mapmaker",
+      "action": "update",
+      "data": {
+        "id": "mapmaker",
+        "name": "mapmaker",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/mapmaker",
+        "discovered_at": "2025-09-04T09:04:16.049767",
+        "type": "general",
+        "status": "active",
+        "last_modified": "2025-09-02T22:23:03.700808"
+      },
+      "timestamp": "2025-09-04T09:04:16.050603"
+    },
+    {
+      "project_id": "test-auto-discovery",
+      "action": "update",
+      "data": {
+        "id": "test-auto-discovery",
+        "name": "test-auto-discovery",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/test-auto-discovery",
+        "discovered_at": "2025-09-04T09:36:55.181708",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-09-04T09:36:55.181549"
+      },
+      "timestamp": "2025-09-04T09:36:55.182422"
+    },
+    {
+      "project_id": "Demo",
+      "action": "update",
+      "data": {
+        "id": "Demo",
+        "name": "Demo",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/Demo",
+        "discovered_at": "2025-10-19T13:38:40.803930",
+        "type": "development-python",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.803751"
+      },
+      "timestamp": "2025-10-19T13:38:40.804926"
+    },
+    {
+      "project_id": "YouTubeRAG",
+      "action": "update",
+      "data": {
+        "id": "YouTubeRAG",
+        "name": "YouTubeRAG",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/YouTubeRAG",
+        "discovered_at": "2025-10-19T13:38:40.808262",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.808105"
+      },
+      "timestamp": "2025-10-19T13:38:40.808801"
+    },
+    {
+      "project_id": "dirKidSports",
+      "action": "update",
+      "data": {
+        "id": "dirKidSports",
+        "name": "dirKidSports",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/dirKidSports",
+        "discovered_at": "2025-10-19T13:38:40.810995",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.810855"
+      },
+      "timestamp": "2025-10-19T13:38:40.811541"
+    },
+    {
+      "project_id": "UsageDash",
+      "action": "update",
+      "data": {
+        "id": "UsageDash",
+        "name": "UsageDash",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/UsageDash",
+        "discovered_at": "2025-10-19T13:38:40.813358",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.813236"
+      },
+      "timestamp": "2025-10-19T13:38:40.813857"
+    },
+    {
+      "project_id": "smart-image-editor",
+      "action": "update",
+      "data": {
+        "id": "smart-image-editor",
+        "name": "smart-image-editor",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/smart-image-editor",
+        "discovered_at": "2025-10-19T13:38:40.817238",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.817127"
+      },
+      "timestamp": "2025-10-19T13:38:40.817728"
+    },
+    {
+      "project_id": "n8n bulk",
+      "action": "update",
+      "data": {
+        "id": "n8n bulk",
+        "name": "n8n bulk",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/n8n bulk",
+        "discovered_at": "2025-10-19T13:38:40.819163",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.819052"
+      },
+      "timestamp": "2025-10-19T13:38:40.819666"
+    },
+    {
+      "project_id": "ad-variations-generator",
+      "action": "update",
+      "data": {
+        "id": "ad-variations-generator",
+        "name": "ad-variations-generator",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/ad-variations-generator",
+        "discovered_at": "2025-10-19T13:38:40.821344",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.821224"
+      },
+      "timestamp": "2025-10-19T13:38:40.821857"
+    },
+    {
+      "project_id": "party-directory-platform",
+      "action": "update",
+      "data": {
+        "id": "party-directory-platform",
+        "name": "party-directory-platform",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/party-directory-platform",
+        "discovered_at": "2025-10-19T13:38:40.824790",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.824668"
+      },
+      "timestamp": "2025-10-19T13:38:40.825342"
+    },
+    {
+      "project_id": "HOA",
+      "action": "update",
+      "data": {
+        "id": "HOA",
+        "name": "HOA",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/HOA",
+        "discovered_at": "2025-10-19T13:38:40.827885",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.827776"
+      },
+      "timestamp": "2025-10-19T13:38:40.828413"
+    },
+    {
+      "project_id": "AIBrainKnowledgeSystem",
+      "action": "update",
+      "data": {
+        "id": "AIBrainKnowledgeSystem",
+        "name": "AIBrainKnowledgeSystem",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/AIBrainKnowledgeSystem",
+        "discovered_at": "2025-10-19T13:38:40.829595",
+        "type": "development-python",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.829476"
+      },
+      "timestamp": "2025-10-19T13:38:40.830118"
+    },
+    {
+      "project_id": "trading",
+      "action": "update",
+      "data": {
+        "id": "trading",
+        "name": "trading",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/trading",
+        "discovered_at": "2025-10-19T13:38:40.833708",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.833564"
+      },
+      "timestamp": "2025-10-19T13:38:40.834323"
+    },
+    {
+      "project_id": "dirTechStack",
+      "action": "update",
+      "data": {
+        "id": "dirTechStack",
+        "name": "dirTechStack",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/dirTechStack",
+        "discovered_at": "2025-10-19T13:38:40.835958",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.835817"
+      },
+      "timestamp": "2025-10-19T13:38:40.836605"
+    },
+    {
+      "project_id": "ad-scraper-analyzer",
+      "action": "update",
+      "data": {
+        "id": "ad-scraper-analyzer",
+        "name": "ad-scraper-analyzer",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/ad-scraper-analyzer",
+        "discovered_at": "2025-10-19T13:38:40.838660",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.838528"
+      },
+      "timestamp": "2025-10-19T13:38:40.839238"
+    },
+    {
+      "project_id": "LeadMag",
+      "action": "update",
+      "data": {
+        "id": "LeadMag",
+        "name": "LeadMag",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/LeadMag",
+        "discovered_at": "2025-10-19T13:38:40.841269",
+        "type": "claude-project",
+        "status": "active",
+        "last_modified": "2025-10-19T13:38:40.841135"
+      },
+      "timestamp": "2025-10-19T13:38:40.841855"
+    },
+    {
+      "project_id": "AIBrain",
+      "action": "update",
+      "data": {
+        "id": "AIBrain",
+        "name": "AIBrain",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/AIBrain",
+        "discovered_at": "2025-10-21T22:46:35.827630",
+        "type": "development-python",
+        "status": "active",
+        "last_modified": "2025-10-21T16:07:51.322000"
+      },
+      "timestamp": "2025-10-21T22:46:35.828816"
+    },
+    {
+      "project_id": "xspaces",
+      "action": "update",
+      "data": {
+        "id": "xspaces",
+        "name": "xspaces",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/xspaces",
+        "discovered_at": "2025-10-21T22:46:35.834779",
+        "type": "general",
+        "status": "active",
+        "last_modified": "2025-10-21T22:46:35.834622"
+      },
+      "timestamp": "2025-10-21T22:46:35.835483"
+    },
+    {
+      "project_id": "promptSaver",
+      "action": "update",
+      "data": {
+        "id": "promptSaver",
+        "name": "promptSaver",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/promptSaver",
+        "discovered_at": "2025-10-26T20:44:13.973357",
+        "type": "development-nodejs",
+        "status": "active",
+        "last_modified": "2025-10-26T20:44:13.973187"
+      },
+      "timestamp": "2025-10-26T20:44:13.974319"
+    },
+    {
+      "project_id": "Social-Content-Generator",
+      "action": "update",
+      "data": {
+        "id": "Social-Content-Generator",
+        "name": "Social-Content-Generator",
+        "path": "/Users/elizabethknopf/Documents/claudec/active/Social-Content-Generator",
+        "discovered_at": "2025-10-28T09:00:26.820018",
+        "type": "development-python",
+        "status": "active",
+        "last_modified": "2025-10-28T09:00:26.819774"
+      },
+      "timestamp": "2025-10-28T09:00:26.821417"
+    }
+  ],
+  "last_sync": "2025-08-26T21:13:05.253475"
+}

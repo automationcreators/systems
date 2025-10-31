@@ -1,0 +1,74 @@
+{
+  "templates": {},
+  "generated_files": {
+    "test-security-project_20250826_211657": {
+      "project_path": "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp1m4c0z9s/test-security-project",
+      "project_type": "claude-project",
+      "generated_at": "2025-08-26T21:16:57.989595",
+      "files": [
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp1m4c0z9s/test-security-project/.env",
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp1m4c0z9s/test-security-project/.env.example",
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp1m4c0z9s/test-security-project/.gitignore",
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp1m4c0z9s/test-security-project/SECURITY.md"
+      ],
+      "templates": [
+        "env_template",
+        "gitignore_template",
+        "security_md_template"
+      ],
+      "generator_version": "1.0.0"
+    },
+    "test-dashboard-integration_20250826_211702": {
+      "project_path": "staging/test-dashboard-integration",
+      "project_type": "claude-project",
+      "generated_at": "2025-08-26T21:17:02.692367",
+      "files": [
+        "staging/test-dashboard-integration/.env",
+        "staging/test-dashboard-integration/.env.example",
+        "staging/test-dashboard-integration/.gitignore",
+        "staging/test-dashboard-integration/SECURITY.md"
+      ],
+      "templates": [
+        "env_template",
+        "gitignore_template",
+        "security_md_template"
+      ],
+      "generator_version": "1.0.0"
+    },
+    "test-security-project_20250904_093513": {
+      "project_path": "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp02pscnu3/test-security-project",
+      "project_type": "claude-project",
+      "generated_at": "2025-09-04T09:35:13.294788",
+      "files": [
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp02pscnu3/test-security-project/.env",
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp02pscnu3/test-security-project/.env.example",
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp02pscnu3/test-security-project/.gitignore",
+        "/var/folders/zx/lkds5h253vx8n9yz44qbp4tc0000gn/T/tmp02pscnu3/test-security-project/SECURITY.md"
+      ],
+      "templates": [
+        "env_template",
+        "gitignore_template",
+        "security_md_template"
+      ],
+      "generator_version": "1.0.0"
+    },
+    "test-auto-discovery_20250904_093648": {
+      "project_path": "/Users/elizabethknopf/Documents/claudec/active/test-auto-discovery",
+      "project_type": "development",
+      "generated_at": "2025-09-04T09:36:48.380646",
+      "files": [
+        "/Users/elizabethknopf/Documents/claudec/active/test-auto-discovery/.env",
+        "/Users/elizabethknopf/Documents/claudec/active/test-auto-discovery/.env.example",
+        "/Users/elizabethknopf/Documents/claudec/active/test-auto-discovery/.gitignore",
+        "/Users/elizabethknopf/Documents/claudec/active/test-auto-discovery/SECURITY.md"
+      ],
+      "templates": [
+        "env_template",
+        "gitignore_template",
+        "security_md_template"
+      ],
+      "generator_version": "1.0.0"
+    }
+  },
+  "last_updated": "2025-09-04T09:36:48.380647"
+}

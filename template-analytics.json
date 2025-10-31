@@ -1,0 +1,45 @@
+{
+  "generated_at": "2025-10-31T09:01:03.616944",
+  "summary": {
+    "total_generations": 4,
+    "unique_projects": 4,
+    "template_types": {
+      "env_template": 4,
+      "gitignore_template": 4,
+      "security_md_template": 4
+    },
+    "project_types": {
+      "claude-project": 3,
+      "development": 1
+    },
+    "generator_versions": {
+      "1.0.0": 4
+    }
+  },
+  "usage_patterns": {
+    "most_common_combinations": {
+      "env_template_gitignore_template_security_md_template": 4
+    },
+    "project_type_preferences": {},
+    "generation_frequency": {
+      "claude-project": [
+        "2025-08-26T21:16:57.989595",
+        "2025-08-26T21:17:02.692367",
+        "2025-09-04T09:35:13.294788"
+      ],
+      "development": [
+        "2025-09-04T09:36:48.380646"
+      ]
+    },
+    "file_popularity": {
+      ".env": 4,
+      ".env.example": 4,
+      ".gitignore": 4,
+      "SECURITY.md": 4
+    }
+  },
+  "evolution_trends": {},
+  "recommendations": [
+    "Consider creating specialized templates for claude-project projects"
+  ]
+}

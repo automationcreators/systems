@@ -1,0 +1,468 @@
+{
+  "sessions": [
+    {
+      "session_id": "2025-08-26T21:33:41.625866",
+      "start_time": "2025-08-26T21:33:41.625866",
+      "operations": [
+        {
+          "timestamp": "2025-08-26T21:33:41.626363",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 1,
+          "session_id": "2025-08-26T21:33:41.625866"
+        },
+        {
+          "timestamp": "2025-08-26T21:33:41.626401",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 2,
+          "session_id": "2025-08-26T21:33:41.625866"
+        },
+        {
+          "timestamp": "2025-08-26T21:33:41.626428",
+          "operation": "template_generation",
+          "tokens": 30,
+          "prompt_number": 3,
+          "session_id": "2025-08-26T21:33:41.625866"
+        },
+        {
+          "timestamp": "2025-08-26T21:33:41.626485",
+          "operation": "test_operation",
+          "tokens": 35,
+          "prompt_number": 4,
+          "session_id": "2025-08-26T21:33:41.625866"
+        },
+        {
+          "timestamp": "2025-08-26T21:33:41.626512",
+          "operation": "context_test",
+          "tokens": 45,
+          "prompt_number": 5,
+          "session_id": "2025-08-26T21:33:41.625866"
+        }
+      ],
+      "total_tokens": 145,
+      "prompt_count": 5
+    },
+    {
+      "session_id": "2025-08-26T21:35:20.688742",
+      "start_time": "2025-08-26T21:35:20.688742",
+      "operations": [
+        {
+          "timestamp": "2025-08-26T21:35:20.688775",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 1,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.688807",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 2,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.688831",
+          "operation": "template_generation",
+          "tokens": 30,
+          "prompt_number": 3,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.688855",
+          "operation": "dashboard_sync",
+          "tokens": 10,
+          "prompt_number": 4,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689011",
+          "operation": "test_function",
+          "tokens": 25,
+          "prompt_number": 5,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689184",
+          "operation": "context_operation",
+          "tokens": 35,
+          "prompt_number": 6,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689393",
+          "operation": "simulation_0",
+          "tokens": 30,
+          "prompt_number": 7,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689421",
+          "operation": "simulation_1",
+          "tokens": 30,
+          "prompt_number": 8,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689444",
+          "operation": "simulation_2",
+          "tokens": 30,
+          "prompt_number": 9,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689464",
+          "operation": "simulation_3",
+          "tokens": 30,
+          "prompt_number": 10,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.689974",
+          "operation": "simulation_4",
+          "tokens": 30,
+          "prompt_number": 11,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690004",
+          "operation": "simulation_5",
+          "tokens": 30,
+          "prompt_number": 12,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690031",
+          "operation": "simulation_6",
+          "tokens": 30,
+          "prompt_number": 13,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690052",
+          "operation": "simulation_7",
+          "tokens": 30,
+          "prompt_number": 14,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690073",
+          "operation": "simulation_8",
+          "tokens": 30,
+          "prompt_number": 15,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690255",
+          "operation": "simulation_9",
+          "tokens": 30,
+          "prompt_number": 16,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690283",
+          "operation": "simulation_10",
+          "tokens": 30,
+          "prompt_number": 17,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690305",
+          "operation": "simulation_11",
+          "tokens": 30,
+          "prompt_number": 18,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690325",
+          "operation": "simulation_12",
+          "tokens": 30,
+          "prompt_number": 19,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690344",
+          "operation": "simulation_13",
+          "tokens": 30,
+          "prompt_number": 20,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690593",
+          "operation": "simulation_14",
+          "tokens": 30,
+          "prompt_number": 21,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690617",
+          "operation": "simulation_15",
+          "tokens": 30,
+          "prompt_number": 22,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690637",
+          "operation": "simulation_16",
+          "tokens": 30,
+          "prompt_number": 23,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690657",
+          "operation": "simulation_17",
+          "tokens": 30,
+          "prompt_number": 24,
+          "session_id": "2025-08-26T21:35:20.688742"
+        },
+        {
+          "timestamp": "2025-08-26T21:35:20.690677",
+          "operation": "simulation_18",
+          "tokens": 30,
+          "prompt_number": 25,
+          "session_id": "2025-08-26T21:35:20.688742"
+        }
+      ],
+      "total_tokens": 705,
+      "prompt_count": 25
+    },
+    {
+      "session_id": "2025-10-19T13:38:40.805149",
+      "start_time": "2025-10-19T13:38:40.805149",
+      "operations": [
+        {
+          "timestamp": "2025-10-19T13:38:40.805606",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 1,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.808934",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 2,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.811624",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 3,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.813949",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 4,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.817821",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 5,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.819787",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 6,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.822000",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 7,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.825488",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 8,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.828563",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 9,
+          "session_id": "2025-10-19T13:38:40.805149"
+        },
+        {
+          "timestamp": "2025-10-19T13:38:40.830252",
+          "operation": "project_discovery",
+          "tokens": 15,
+          "prompt_number": 10,
+          "session_id": "2025-10-19T13:38:40.805149"
+        }
+      ],
+      "total_tokens": 150,
+      "prompt_count": 10
+    },
+    {
+      "session_id": "2025-10-21T22:46:35.884694",
+      "start_time": "2025-10-21T22:46:35.884694",
+      "operations": [
+        {
+          "timestamp": "2025-10-21T22:46:35.884859",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 1,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.886471",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 2,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.888319",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 3,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.890486",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 4,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.892745",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 5,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.895919",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 6,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.900157",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 7,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.902242",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 8,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.904194",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 9,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.908187",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 10,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.910716",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 11,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.913246",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 12,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.915763",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 13,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.918503",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 14,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.921203",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 15,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.924599",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 16,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.930364",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 17,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.938399",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 18,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.946778",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 19,
+          "session_id": "2025-10-21T22:46:35.884694"
+        },
+        {
+          "timestamp": "2025-10-21T22:46:35.949956",
+          "operation": "document_parsing",
+          "tokens": 20,
+          "prompt_number": 20,
+          "session_id": "2025-10-21T22:46:35.884694"
+        }
+      ],
+      "total_tokens": 400,
+      "prompt_count": 20
+    }
+  ],
+  "daily_totals": {
+    "2025-08-26": 850,
+    "2025-10-19": 150,
+    "2025-10-21": 400
+  },
+  "weekly_totals": {
+    "2025-08-25": 850,
+    "2025-10-13": 150,
+    "2025-10-20": 400
+  },
+  "total_tokens": 1400,
+  "last_updated": "2025-10-21T22:46:35.950040"
+}

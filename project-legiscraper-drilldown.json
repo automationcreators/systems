@@ -1,0 +1,506 @@
+{
+  "id": "legiscraper",
+  "basic_info": {
+    "id": "legiscraper",
+    "name": "legiscraper",
+    "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper",
+    "discovered_at": "2025-08-19T14:54:14.219424",
+    "last_modified": "2025-08-19T13:14:33.802153",
+    "size_mb": 0.6,
+    "file_count": 41,
+    "type": "development",
+    "activity_score": 8.378378378378379,
+    "lifecycle_stage": "active",
+    "title": "Claude Code Configuration for LegislativeScraper Project",
+    "moved_at": "2025-08-25T11:29:20.516931"
+  },
+  "documents": {
+    "project_path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper",
+    "project_name": "legiscraper",
+    "parsed_at": "2025-09-04T08:57:54.111220",
+    "documents": {
+      "todo": {
+        "high_priority": [],
+        "medium_priority": [
+          {
+            "text": "**Multi-state expansion** - Configure scrapers for CA, TX, FL, NY",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**API framework development** - Build REST API for data access",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**Database integration** - Store and index scraped data",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**Real-time monitoring** - Track data freshness and changes",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**Customer validation** - Interview 10 potential customers",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**Municipal website analysis** - City/county data source mapping",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**Business model validation** - Test pricing with beta customers",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**White-label platform** - Multi-tenant architecture",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**AI-powered extraction** - Auto-detect website structures",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "**Compliance framework** - Legal/ethical data usage policies",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Refactor scraper architecture for better modularity",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Add comprehensive logging and monitoring",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Implement automatic retry mechanisms",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Build admin dashboard for configuration",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Add data quality scoring algorithms",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "PDF document parsing (meeting minutes, reports)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Form submission automation (FOIA requests)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Calendar integration (government meetings)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Mobile app development",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Data visualization dashboards",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Government API inventory (existing data sources)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Competitive analysis (existing civic tech platforms)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Legal research (data scraping regulations)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Technology evaluation (headless browsers, cloud infrastructure)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          },
+          {
+            "text": "Market sizing (total addressable market analysis)",
+            "priority": "medium_priority",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "medium_priority"
+          }
+        ],
+        "low_priority": [
+          {
+            "text": "**Performance optimization** - Reduce scraping time while maintaining accuracy",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          },
+          {
+            "text": "**Enhanced data validation** - Improve quality checks and error detection",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          },
+          {
+            "text": "**Export standardization** - Clean CSV/JSON formats for easy consumption",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          },
+          {
+            "text": "**Documentation updates** - Reflect fixes in README and examples",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          },
+          {
+            "text": "**Error handling improvements** - Better resilience for website changes",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          },
+          {
+            "text": "~~Municipal website access~~ - Need to research terms of service",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          },
+          {
+            "text": "~~California scraper~~ - Waiting for website structure analysis",
+            "priority": "completed",
+            "due_date": null,
+            "tags": [],
+            "completed": false,
+            "section": "completed"
+          }
+        ],
+        "completed": [
+          {
+            "text": "**Analyze Idaho Legislature missing data** - \u2705 Determined email-based parsing needed",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**Fix CSS selectors** - \u2705 Created targeted email-based extraction strategy",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**Implement comprehensive fallback parsing** - \u2705 Multi-strategy validation system built",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**Test modal/popup handling** - \u2705 Email-based approach avoids modal complexity",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**Validate 100% data completion** - \u2705 **ACHIEVED 99% ACCURACY (104/105 legislators)**",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "Built initial Idaho Legislature scraper",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "Created multi-site framework architecture",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "Implemented data validation system",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "Organized project structure",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "Created comprehensive documentation",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**MAJOR: Fixed Idaho scraper to 99% accuracy (104/105 legislators)**",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**Achieved production-ready data collection**",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          },
+          {
+            "text": "**Validated complete contact information extraction**",
+            "priority": "completed",
+            "completed": true,
+            "section": "completed",
+            "tags": []
+          }
+        ],
+        "total_tasks": 45,
+        "completed_tasks": 13,
+        "completion_percentage": 28.9,
+        "file_info": {
+          "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper/TODO.md",
+          "last_modified": "2025-08-19T12:18:03.454868",
+          "size": 5247,
+          "hash": "fe06e5bd30be41933927f4b55d6b50f9"
+        }
+      },
+      "claude": {
+        "title": "Claude Code Configuration for LegislativeScraper Project",
+        "project_type": "",
+        "status": "",
+        "description": "",
+        "requirements": [
+          "Log all errors with specific details",
+          "Graceful degradation when partial data available",
+          "Clear error messages for debugging",
+          "Retry logic for network issues",
+          "[ ] All existing tests still pass",
+          "[ ] New functionality has been tested",
+          "[ ] Documentation updated if needed",
+          "[ ] Data validation shows >95% accuracy",
+          "[ ] Performance impact assessed"
+        ],
+        "current_status": [],
+        "notes": "1. Check existing documentation in docs/ 2. Review similar implementations in code 3. Test with small dataset first 4. Ask for specific guidance on blockers 1. Explain rationale for approach 2. Show before/after comparisons 3. Update relevant documentation 4. Test with actual Idaho legislature data - Reference specific TODO.md items when completing work - Provide metrics (e.g., \"increased capture rate from 21% to 78%\") - Identify any new issues discovered - Update sprint goals if priorities change This scraper is the foundation for a larger government data platform. Consider: - **Scalability**: Design patterns that work for 1000+ sites - **Maintainability**: Code that others can extend - **Reliability**: Production-ready error handling - **User Experience**: Clean, easy-to-use data formats Remember: We're building a business, not just a prototype. Quality and reliability are essential for customer trust and platform growth. --- **Last Updated**: August 18, 2025 **Claude Version**: Update this when making significant changes to working methods",
+        "tags": [],
+        "metadata": {
+          "- mandatory": "Always include TODO status update at end of responses to track progress and prevent lost work",
+          "- concise updates": "Brief status reports on progress",
+          "6. mandatory": "End every response with current TODO status summary to prevent work loss"
+        },
+        "status_completion": 0,
+        "file_info": {
+          "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper/CLAUDE.md",
+          "last_modified": "2025-08-19T12:36:30.670648",
+          "size": 5408,
+          "hash": "416ef53a5f702e330577d63325ed0b68"
+        }
+      }
+    },
+    "summary": {
+      "overall_progress": 28.9,
+      "total_tasks": 45,
+      "completed_tasks": 13,
+      "high_priority_tasks": 0,
+      "overdue_tasks": 0,
+      "project_status": "",
+      "last_activity": "2025-08-19T12:36:30.670648",
+      "key_info": {
+        "title": "Claude Code Configuration for LegislativeScraper Project",
+        "type": "",
+        "description": "",
+        "tags": []
+      }
+    }
+  },
+  "security": {
+    "project_path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper",
+    "project_name": "legiscraper",
+    "scanned_at": "2025-09-04T08:57:54.112081",
+    "security_score": 80,
+    "issues": [
+      {
+        "type": "missing_file",
+        "category": "security_files",
+        "description": "Missing .gitignore file",
+        "severity": "medium",
+        "file": ".gitignore"
+      },
+      {
+        "type": "missing_file",
+        "category": "security_files",
+        "description": "Missing SECURITY.md file",
+        "severity": "medium",
+        "file": "SECURITY.md"
+      }
+    ],
+    "recommendations": [
+      "Generate security templates: python3 systems/secure-template-generator.py"
+    ],
+    "compliance": {}
+  },
+  "files": [
+    {
+      "name": "CLAUDE.md",
+      "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper/CLAUDE.md",
+      "size": 5408,
+      "modified": "2025-08-19T12:36:30.670648",
+      "type": "context",
+      "icon": "\ud83e\udd16"
+    },
+    {
+      "name": "TODO.md",
+      "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper/TODO.md",
+      "size": 5247,
+      "modified": "2025-08-19T12:18:03.454868",
+      "type": "tasks",
+      "icon": "\ud83d\udccb"
+    },
+    {
+      "name": "README.md",
+      "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper/README.md",
+      "size": 8715,
+      "modified": "2025-08-18T09:44:11.831782",
+      "type": "documentation",
+      "icon": "\ud83d\udcd6"
+    },
+    {
+      "name": "requirements.txt",
+      "path": "/Users/elizabethknopf/Documents/claudec/active/legiscraper/requirements.txt",
+      "size": 179,
+      "modified": "2025-08-15T10:47:10.247488",
+      "type": "config",
+      "icon": "\ud83d\udc0d"
+    }
+  ],
+  "recent_activity": [],
+  "metadata": {
+    "last_updated": "2025-09-04T08:57:54.133335",
+    "data_sources": [
+      "discovery",
+      "documents",
+      "security",
+      "filesystem"
+    ]
+  }
+}

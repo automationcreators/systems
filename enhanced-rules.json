@@ -1,0 +1,98 @@
+{
+  "project_types": {
+    "claude-project": {
+      "description": "Claude Code project with structured templates",
+      "templates": [
+        "CLAUDE.md",
+        "TODO.md",
+        "HANDOFFS.md",
+        "SECURITY.md"
+      ],
+      "security_level": "isolated",
+      "lifecycle_stage": "active",
+      "auto_backup": true,
+      "chat_tracking": true
+    },
+    "development": {
+      "description": "Software development project",
+      "templates": [
+        "README.md",
+        "CLAUDE.md",
+        ".gitignore"
+      ],
+      "security_level": "project",
+      "lifecycle_stage": "active",
+      "auto_backup": true,
+      "chat_tracking": true
+    },
+    "data-analysis": {
+      "description": "Data analysis and research project",
+      "templates": [
+        "CLAUDE.md",
+        "data-notes.md"
+      ],
+      "security_level": "shared",
+      "lifecycle_stage": "staging",
+      "auto_backup": true,
+      "chat_tracking": false
+    },
+    "one-off": {
+      "description": "Quick one-time project",
+      "templates": [
+        "quick-notes.md"
+      ],
+      "security_level": "shared",
+      "lifecycle_stage": "staging",
+      "auto_backup": false,
+      "chat_tracking": false
+    },
+    "system-tool": {
+      "description": "Personal productivity system or tool",
+      "templates": [
+        "CLAUDE.md",
+        "TODO.md",
+        "README.md"
+      ],
+      "security_level": "system",
+      "lifecycle_stage": "systems",
+      "auto_backup": true,
+      "chat_tracking": true
+    }
+  },
+  "security_settings": {
+    "system": {
+      "vault_access": "auto",
+      "api_keys": "master",
+      "storage_access": "full"
+    },
+    "isolated": {
+      "vault_access": "request",
+      "api_keys": "dedicated",
+      "storage_access": "project"
+    },
+    "project": {
+      "vault_access": "request",
+      "api_keys": "prompt",
+      "storage_access": "project"
+    },
+    "shared": {
+      "vault_access": "auto",
+      "api_keys": "master",
+      "storage_access": "shared"
+    }
+  },
+  "auto_actions": {
+    "daily_discovery": true,
+    "weekly_lifecycle_review": true,
+    "monthly_security_audit": true,
+    "backup_frequency": "daily",
+    "cleanup_threshold_days": 30
+  },
+  "integrations": {
+    "dashboard_sync": true,
+    "chat_logging": true,
+    "terminal_tracking": true,
+    "github_integration": false,
+    "cloud_backup": true
+  }
+}

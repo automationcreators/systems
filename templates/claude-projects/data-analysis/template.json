@@ -1,0 +1,12 @@
+{
+  "name": "data-analysis",
+  "category": "claude-projects",
+  "description": "Data-Analysis project template",
+  "files": [
+    "CLAUDE.md",
+    "TODO.md",
+    ".gitignore",
+    ".env.example"
+  ],
+  "created_at": "2025-09-04T09:35:30.821045"
+}

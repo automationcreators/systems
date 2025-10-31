@@ -1,0 +1,20 @@
+{
+  "test-dashboard-integration": {
+    "config": {
+      "name": "Test Dashboard Integration",
+      "id": "test-dashboard-integration",
+      "type": "claude-project",
+      "security_level": "shared",
+      "chat_tracking": true,
+      "auto_backup": true,
+      "created_at": "2025-08-25T11:29:01.624650",
+      "templates": [
+        "CLAUDE.md",
+        "TODO.md"
+      ],
+      "lifecycle_stage": "staging"
+    },
+    "registered_at": "2025-08-25T11:29:01.625350",
+    "lifecycle_events": []
+  }
+}

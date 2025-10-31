@@ -1,0 +1,3683 @@
+[
+  {
+    "pattern_key": ".sample",
+    "category": "file_patterns",
+    "skill_name": ".sample-.sample",
+    "description": "Automates .sample pattern found in 32 projects. Implements common .sample pattern.",
+    "priority_score": 20.3,
+    "frequency": 32,
+    "occurrence_count": 494,
+    "projects": [
+      "Demo",
+      "promptSaver",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "dirKidSports",
+      "Project Management",
+      "UsageDash",
+      "legiscraper",
+      "tradingplan",
+      "ppp data",
+      "data cleanup",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "chromeSkooldwl",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "DataMapping",
+      "HOA",
+      "ragYT",
+      "xspaces",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis",
+      "trading",
+      "StateScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 32 projects, 494 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118476"
+  },
+  {
+    "pattern_key": ".md",
+    "category": "file_patterns",
+    "skill_name": ".md-.md",
+    "description": "Automates .md pattern found in 28 projects. Implements common .md pattern.",
+    "priority_score": 18.7,
+    "frequency": 28,
+    "occurrence_count": 18754,
+    "projects": [
+      "Demo",
+      "promptSaver",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "dirKidSports",
+      "Project Management",
+      "UsageDash",
+      "legiscraper",
+      "ppp data",
+      "data cleanup",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "chromeSkooldwl",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "HOA",
+      "xspaces",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 28 projects, 18754 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118429"
+  },
+  {
+    "pattern_key": ".json",
+    "category": "file_patterns",
+    "skill_name": ".json-.json",
+    "description": "Automates .json pattern found in 28 projects. Implements common .json pattern.",
+    "priority_score": 18.7,
+    "frequency": 28,
+    "occurrence_count": 26194,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "dirKidSports",
+      "Project Management",
+      "UsageDash",
+      "legiscraper",
+      "ppp data",
+      "data cleanup",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "chromeSkooldwl",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "HOA",
+      "xspaces",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis",
+      "trading",
+      "StateScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 28 projects, 26194 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118490"
+  },
+  {
+    "pattern_key": ".txt",
+    "category": "file_patterns",
+    "skill_name": ".txt-.txt",
+    "description": "Automates .txt pattern found in 22 projects. Implements common .txt pattern.",
+    "priority_score": 16.3,
+    "frequency": 22,
+    "occurrence_count": 761,
+    "projects": [
+      "Demo",
+      "promptSaver",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "dirKidSports",
+      "UsageDash",
+      "legiscraper",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "HOA",
+      "scrapers",
+      "OwnerScraper",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 22 projects, 761 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118446"
+  },
+  {
+    "pattern_key": ".py",
+    "category": "file_patterns",
+    "skill_name": ".py-.py",
+    "description": "Automates .py pattern found in 21 projects. Implements common .py pattern.",
+    "priority_score": 15.9,
+    "frequency": 21,
+    "occurrence_count": 11396,
+    "projects": [
+      "Demo",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "dirKidSports",
+      "Project Management",
+      "UsageDash",
+      "legiscraper",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "HOA",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 21 projects, 11396 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118462"
+  },
+  {
+    "pattern_key": ".html",
+    "category": "file_patterns",
+    "skill_name": ".html-.html",
+    "description": "Automates .html pattern found in 21 projects. Implements common .html pattern.",
+    "priority_score": 15.9,
+    "frequency": 21,
+    "occurrence_count": 251,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "Project Management",
+      "UsageDash",
+      "legiscraper",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "chromeSkooldwl",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 21 projects, 251 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118513"
+  },
+  {
+    "pattern_key": ".css",
+    "category": "file_patterns",
+    "skill_name": ".css-.css",
+    "description": "Automates .css pattern found in 18 projects. Implements common .css pattern.",
+    "priority_score": 14.7,
+    "frequency": 18,
+    "occurrence_count": 263,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "Project Management",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "chromeSkooldwl",
+      "Personal-OS",
+      "party-directory-platform",
+      "ContentGen",
+      "mapmaker",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 18 projects, 263 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118544"
+  },
+  {
+    "pattern_key": ".sh",
+    "category": "file_patterns",
+    "skill_name": ".sh-.sh",
+    "description": "Automates .sh pattern found in 16 projects. Implements common .sh pattern.",
+    "priority_score": 13.9,
+    "frequency": 16,
+    "occurrence_count": 63,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "Personal-OS",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 16 projects, 63 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118709"
+  },
+  {
+    "pattern_key": ".ts",
+    "category": "file_patterns",
+    "skill_name": ".ts-.ts",
+    "description": "Automates .ts pattern found in 15 projects. Implements common .ts pattern.",
+    "priority_score": 13.5,
+    "frequency": 15,
+    "occurrence_count": 82190,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 15 projects, 82190 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118529"
+  },
+  {
+    "pattern_key": ".mjs",
+    "category": "file_patterns",
+    "skill_name": ".mjs-.mjs",
+    "description": "Automates .mjs pattern found in 15 projects. Implements common .mjs pattern.",
+    "priority_score": 13.5,
+    "frequency": 15,
+    "occurrence_count": 5152,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 15 projects, 5152 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118598"
+  },
+  {
+    "pattern_key": "python_import:import sys",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-sys",
+    "description": "Automates import sys pattern found in 15 projects. Implements common python_import pattern.",
+    "priority_score": 13.5,
+    "frequency": 15,
+    "occurrence_count": 760,
+    "projects": [
+      "Demo",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "Personal-OS",
+      "ContentGen",
+      "mapmaker",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 15 projects, 760 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119512"
+  },
+  {
+    "pattern_key": ".svg",
+    "category": "file_patterns",
+    "skill_name": ".svg-.svg",
+    "description": "Automates .svg pattern found in 14 projects. Implements common .svg pattern.",
+    "priority_score": 13.1,
+    "frequency": 14,
+    "occurrence_count": 139,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "chromeSkooldwl",
+      "party-directory-platform",
+      "mapmaker",
+      "trading",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 14 projects, 139 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118565"
+  },
+  {
+    "pattern_key": ".yml",
+    "category": "file_patterns",
+    "skill_name": ".yml-.yml",
+    "description": "Automates .yml pattern found in 14 projects. Implements common .yml pattern.",
+    "priority_score": 13.1,
+    "frequency": 14,
+    "occurrence_count": 2009,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 14 projects, 2009 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118584"
+  },
+  {
+    "pattern_key": ".markdown",
+    "category": "file_patterns",
+    "skill_name": ".markdown-.markdown",
+    "description": "Automates .markdown pattern found in 14 projects. Implements common .markdown pattern.",
+    "priority_score": 13.1,
+    "frequency": 14,
+    "occurrence_count": 135,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 14 projects, 135 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118681"
+  },
+  {
+    "pattern_key": ".cts",
+    "category": "file_patterns",
+    "skill_name": ".cts-.cts",
+    "description": "Automates .cts pattern found in 13 projects. Implements common .cts pattern.",
+    "priority_score": 12.7,
+    "frequency": 13,
+    "occurrence_count": 4446,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 13 projects, 4446 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118640"
+  },
+  {
+    "pattern_key": ".cjs",
+    "category": "file_patterns",
+    "skill_name": ".cjs-.cjs",
+    "description": "Automates .cjs pattern found in 13 projects. Implements common .cjs pattern.",
+    "priority_score": 12.7,
+    "frequency": 13,
+    "occurrence_count": 5712,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 13 projects, 5712 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118654"
+  },
+  {
+    "pattern_key": ".mts",
+    "category": "file_patterns",
+    "skill_name": ".mts-.mts",
+    "description": "Automates .mts pattern found in 13 projects. Implements common .mts pattern.",
+    "priority_score": 12.7,
+    "frequency": 13,
+    "occurrence_count": 1475,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 13 projects, 1475 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118668"
+  },
+  {
+    "pattern_key": ".coffee",
+    "category": "file_patterns",
+    "skill_name": ".coffee-.coffee",
+    "description": "Automates .coffee pattern found in 13 projects. Implements common .coffee pattern.",
+    "priority_score": 12.7,
+    "frequency": 13,
+    "occurrence_count": 158,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 13 projects, 158 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118694"
+  },
+  {
+    "pattern_key": ".map",
+    "category": "file_patterns",
+    "skill_name": ".map-.map",
+    "description": "Automates .map pattern found in 13 projects. Implements common .map pattern.",
+    "priority_score": 12.7,
+    "frequency": 13,
+    "occurrence_count": 49037,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 13 projects, 49037 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118736"
+  },
+  {
+    "pattern_key": "python_import:import os",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-os",
+    "description": "Automates import os pattern found in 13 projects. Implements common python_import pattern.",
+    "priority_score": 12.7,
+    "frequency": 13,
+    "occurrence_count": 897,
+    "projects": [
+      "Demo",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "Project Management",
+      "legiscraper",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 13 projects, 897 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119495"
+  },
+  {
+    "pattern_key": ".flow",
+    "category": "file_patterns",
+    "skill_name": ".flow-.flow",
+    "description": "Automates .flow pattern found in 12 projects. Implements common .flow pattern.",
+    "priority_score": 12.3,
+    "frequency": 12,
+    "occurrence_count": 2544,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 12 projects, 2544 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118626"
+  },
+  {
+    "pattern_key": ".tsx",
+    "category": "file_patterns",
+    "skill_name": ".tsx-.tsx",
+    "description": "Automates .tsx pattern found in 12 projects. Implements common .tsx pattern.",
+    "priority_score": 12.3,
+    "frequency": 12,
+    "occurrence_count": 355,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 12 projects, 355 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118722"
+  },
+  {
+    "pattern_key": ".bnf",
+    "category": "file_patterns",
+    "skill_name": ".bnf-.bnf",
+    "description": "Automates .bnf pattern found in 12 projects. Implements common .bnf pattern.",
+    "priority_score": 12.3,
+    "frequency": 12,
+    "occurrence_count": 108,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 12 projects, 108 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118763"
+  },
+  {
+    "pattern_key": ".BSD",
+    "category": "file_patterns",
+    "skill_name": ".bsd-.bsd",
+    "description": "Automates .BSD pattern found in 12 projects. Implements common .BSD pattern.",
+    "priority_score": 12.3,
+    "frequency": 12,
+    "occurrence_count": 81,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 12 projects, 81 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118998"
+  },
+  {
+    "pattern_key": "python_import:import json",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-json",
+    "description": "Automates import json pattern found in 12 projects. Implements common python_import pattern.",
+    "priority_score": 12.3,
+    "frequency": 12,
+    "occurrence_count": 361,
+    "projects": [
+      "Demo",
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "Project Management",
+      "legiscraper",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 12 projects, 361 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119596"
+  },
+  {
+    "pattern_key": ".node",
+    "category": "file_patterns",
+    "skill_name": ".node-.node",
+    "description": "Automates .node pattern found in 11 projects. Implements common .node pattern.",
+    "priority_score": 11.9,
+    "frequency": 11,
+    "occurrence_count": 40,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 11 projects, 40 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118750"
+  },
+  {
+    "pattern_key": "python_import:import re",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-re",
+    "description": "Automates import re pattern found in 11 projects. Implements common python_import pattern.",
+    "priority_score": 11.9,
+    "frequency": 11,
+    "occurrence_count": 599,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "legiscraper",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "scrapers",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 11 projects, 599 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119827"
+  },
+  {
+    "pattern_key": ".lock",
+    "category": "file_patterns",
+    "skill_name": ".lock-.lock",
+    "description": "Automates .lock pattern found in 10 projects. Implements common .lock pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 32,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 32 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118818"
+  },
+  {
+    "pattern_key": ".wasm",
+    "category": "file_patterns",
+    "skill_name": ".wasm-.wasm",
+    "description": "Automates .wasm pattern found in 10 projects. Implements common .wasm pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 58,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 58 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118847"
+  },
+  {
+    "pattern_key": ".closure-compiler",
+    "category": "file_patterns",
+    "skill_name": ".closure-compiler-.closure-compiler",
+    "description": "Automates .closure-compiler pattern found in 10 projects. Implements common .closure-compiler pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 25,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 25 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118913"
+  },
+  {
+    "pattern_key": ".esprima",
+    "category": "file_patterns",
+    "skill_name": ".esprima-.esprima",
+    "description": "Automates .esprima pattern found in 10 projects. Implements common .esprima pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 25,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 25 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118927"
+  },
+  {
+    "pattern_key": ".jst",
+    "category": "file_patterns",
+    "skill_name": ".jst-.jst",
+    "description": "Automates .jst pattern found in 10 projects. Implements common .jst pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 299,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 299 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119039"
+  },
+  {
+    "pattern_key": ".def",
+    "category": "file_patterns",
+    "skill_name": ".def-.def",
+    "description": "Automates .def pattern found in 10 projects. Implements common .def pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 55,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 55 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119121"
+  },
+  {
+    "pattern_key": "python_import:import requests",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-requests",
+    "description": "Automates import requests pattern found in 10 projects. Implements common python_import pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 104,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "legiscraper",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 10 projects, 104 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119796"
+  },
+  {
+    "pattern_key": "python_import:import time",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-time",
+    "description": "Automates import time pattern found in 10 projects. Implements common python_import pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 266,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "legiscraper",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 10 projects, 266 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119876"
+  },
+  {
+    "pattern_key": "python_import:from pathlib import Path",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-pathlib-import-path",
+    "description": "Automates from pathlib import Path pattern found in 10 projects. Implements common python_import pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 206,
+    "projects": [
+      "YouTubeRAG",
+      "Project Management",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "scrapers",
+      "OwnerScraper",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 10 projects, 206 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119892"
+  },
+  {
+    "pattern_key": "python_import:from datetime import datetime",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-datetime-import-datetime",
+    "description": "Automates from datetime import datetime pattern found in 10 projects. Implements common python_import pattern.",
+    "priority_score": 11.5,
+    "frequency": 10,
+    "occurrence_count": 115,
+    "projects": [
+      "YouTubeRAG",
+      "Project Management",
+      "legiscraper",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 10 projects, 115 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119953"
+  },
+  {
+    "pattern_key": ".1",
+    "category": "file_patterns",
+    "skill_name": ".1-.1",
+    "description": "Automates .1 pattern found in 9 projects. Implements common .1 pattern.",
+    "priority_score": 11.1,
+    "frequency": 9,
+    "occurrence_count": 33,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "dirKidSports",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 9 projects, 33 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118613"
+  },
+  {
+    "pattern_key": ".yaml",
+    "category": "file_patterns",
+    "skill_name": ".yaml-.yaml",
+    "description": "Automates .yaml pattern found in 9 projects. Implements common .yaml pattern.",
+    "priority_score": 11.1,
+    "frequency": 9,
+    "occurrence_count": 22,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 9 projects, 22 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118888"
+  },
+  {
+    "pattern_key": ".log",
+    "category": "file_patterns",
+    "skill_name": ".log-.log",
+    "description": "Automates .log pattern found in 9 projects. Implements common .log pattern.",
+    "priority_score": 11.1,
+    "frequency": 9,
+    "occurrence_count": 36,
+    "projects": [
+      "vendor-quote-tool",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "Personal-OS",
+      "mapmaker",
+      "OwnerScraper",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 9 projects, 36 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118955"
+  },
+  {
+    "pattern_key": ".csv",
+    "category": "file_patterns",
+    "skill_name": ".csv-.csv",
+    "description": "Automates .csv pattern found in 9 projects. Implements common .csv pattern.",
+    "priority_score": 11.1,
+    "frequency": 9,
+    "occurrence_count": 540,
+    "projects": [
+      "UsageDash",
+      "legiscraper",
+      "data cleanup",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "mapmaker",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 9 projects, 540 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119272"
+  },
+  {
+    "pattern_key": "python_import:import logging",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-logging",
+    "description": "Automates import logging pattern found in 8 projects. Implements common python_import pattern.",
+    "priority_score": 10.7,
+    "frequency": 8,
+    "occurrence_count": 587,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "legiscraper",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 8 projects, 587 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119763"
+  },
+  {
+    "pattern_key": ".tsbuildinfo",
+    "category": "file_patterns",
+    "skill_name": ".tsbuildinfo-.tsbuildinfo",
+    "description": "Automates .tsbuildinfo pattern found in 7 projects. Implements common .tsbuildinfo pattern.",
+    "priority_score": 10.3,
+    "frequency": 7,
+    "occurrence_count": 121,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 7 projects, 121 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118791"
+  },
+  {
+    "pattern_key": ".snap",
+    "category": "file_patterns",
+    "skill_name": ".snap-.snap",
+    "description": "Automates .snap pattern found in 7 projects. Implements common .snap pattern.",
+    "priority_score": 10.3,
+    "frequency": 7,
+    "occurrence_count": 74,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 7 projects, 74 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118901"
+  },
+  {
+    "pattern_key": ".ejs",
+    "category": "file_patterns",
+    "skill_name": ".ejs-.ejs",
+    "description": "Automates .ejs pattern found in 7 projects. Implements common .ejs pattern.",
+    "priority_score": 10.3,
+    "frequency": 7,
+    "occurrence_count": 20,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer",
+      "LeadMag"
+    ],
+    "rationale": "Pattern appears in 7 projects, 20 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118941"
+  },
+  {
+    "pattern_key": ".xml",
+    "category": "file_patterns",
+    "skill_name": ".xml-.xml",
+    "description": "Automates .xml pattern found in 7 projects. Implements common .xml pattern.",
+    "priority_score": 10.3,
+    "frequency": 7,
+    "occurrence_count": 36,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 7 projects, 36 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118968"
+  },
+  {
+    "pattern_key": "python_import:import asyncio",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-asyncio",
+    "description": "Automates import asyncio pattern found in 7 projects. Implements common python_import pattern.",
+    "priority_score": 10.3,
+    "frequency": 7,
+    "occurrence_count": 42,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 7 projects, 42 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119779"
+  },
+  {
+    "pattern_key": ".pack",
+    "category": "file_patterns",
+    "skill_name": ".pack-.pack",
+    "description": "Automates .pack pattern found in 6 projects. Implements common .pack pattern.",
+    "priority_score": 9.9,
+    "frequency": 6,
+    "occurrence_count": 35,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 35 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119080"
+  },
+  {
+    "pattern_key": "python_import:from collections import defaultdict",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-collections-import-defaultdict",
+    "description": "Automates from collections import defaultdict pattern found in 6 projects. Implements common python_import pattern.",
+    "priority_score": 9.9,
+    "frequency": 6,
+    "occurrence_count": 220,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 6 projects, 220 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119969"
+  },
+  {
+    "pattern_key": "python_import:from typing import Dict, List, Optional",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-dict,-list,-optional",
+    "description": "Automates from typing import Dict, List, Optional pattern found in 6 projects. Implements common python_import pattern.",
+    "priority_score": 9.9,
+    "frequency": 6,
+    "occurrence_count": 20,
+    "projects": [
+      "Project Management",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 6 projects, 20 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120114"
+  },
+  {
+    "pattern_key": ".dylib",
+    "category": "file_patterns",
+    "skill_name": ".dylib-.dylib",
+    "description": "Automates .dylib pattern found in 5 projects. Implements common .dylib pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 38,
+    "projects": [
+      "UsageDash",
+      "AIBrain",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 5 projects, 38 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119286"
+  },
+  {
+    "pattern_key": ".h",
+    "category": "file_patterns",
+    "skill_name": ".h-.h",
+    "description": "Automates .h pattern found in 5 projects. Implements common .h pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 10294,
+    "projects": [
+      "UsageDash",
+      "AIBrain",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 5 projects, 10294 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119301"
+  },
+  {
+    "pattern_key": "python_import:from typing import Optional",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-optional",
+    "description": "Automates from typing import Optional pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 178,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "AIBrain",
+      "HOA",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 5 projects, 178 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119662"
+  },
+  {
+    "pattern_key": "python_import:from typing import List, Dict, Optional",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-list,-dict,-optional",
+    "description": "Automates from typing import List, Dict, Optional pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 22,
+    "projects": [
+      "vendor-quote-tool",
+      "Personal-OS",
+      "ContentGen",
+      "HOA",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 5 projects, 22 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119747"
+  },
+  {
+    "pattern_key": "python_import:from bs4 import BeautifulSoup",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-bs4-import-beautifulsoup",
+    "description": "Automates from bs4 import BeautifulSoup pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 22,
+    "projects": [
+      "vendor-quote-tool",
+      "legiscraper",
+      "ContentGen",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 5 projects, 22 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119811"
+  },
+  {
+    "pattern_key": "python_import:from dotenv import load_dotenv",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-dotenv-import-load-dotenv",
+    "description": "Automates from dotenv import load_dotenv pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 23,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 5 projects, 23 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119907"
+  },
+  {
+    "pattern_key": "python_import:from datetime import datetime, timedelta",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-datetime-import-datetime,-timedelta",
+    "description": "Automates from datetime import datetime, timedelta pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 27,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 5 projects, 27 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120035"
+  },
+  {
+    "pattern_key": "python_import:import subprocess",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-subprocess",
+    "description": "Automates import subprocess pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 130,
+    "projects": [
+      "YouTubeRAG",
+      "Project Management",
+      "AIBrain",
+      "Personal-OS",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 5 projects, 130 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120066"
+  },
+  {
+    "pattern_key": "python_import:import csv",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-csv",
+    "description": "Automates import csv pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 119,
+    "projects": [
+      "legiscraper",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 5 projects, 119 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120147"
+  },
+  {
+    "pattern_key": "python_import:from collections import Counter",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-collections-import-counter",
+    "description": "Automates from collections import Counter pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 9.5,
+    "frequency": 5,
+    "occurrence_count": 43,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 5 projects, 43 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120374"
+  },
+  {
+    "pattern_key": ".cc",
+    "category": "file_patterns",
+    "skill_name": ".cc-.cc",
+    "description": "Automates .cc pattern found in 4 projects. Implements common .cc pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 28,
+    "projects": [
+      "UsageDash",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 4 projects, 28 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119316"
+  },
+  {
+    "pattern_key": ".c",
+    "category": "file_patterns",
+    "skill_name": ".c-.c",
+    "description": "Automates .c pattern found in 4 projects. Implements common .c pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 64,
+    "projects": [
+      "AIBrain",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 4 projects, 64 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119401"
+  },
+  {
+    "pattern_key": "python_import:import uuid",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-uuid",
+    "description": "Automates import uuid pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 44,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "Personal-OS",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 4 projects, 44 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120002"
+  },
+  {
+    "pattern_key": "python_import:import numpy as np",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-numpy-as-np",
+    "description": "Automates import numpy as np pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 736,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "OwnerScraper",
+      "JoblistingsAnalysis"
+    ],
+    "rationale": "Pattern appears in 4 projects, 736 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120019"
+  },
+  {
+    "pattern_key": "python_import:import shutil",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-shutil",
+    "description": "Automates import shutil pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 111,
+    "projects": [
+      "Project Management",
+      "AIBrain",
+      "Personal-OS",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 4 projects, 111 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120099"
+  },
+  {
+    "pattern_key": "python_import:import random",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-random",
+    "description": "Automates import random pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 114,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 4 projects, 114 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120302"
+  },
+  {
+    "pattern_key": "python_import:from urllib.parse import urlparse",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-urllib.parse-import-urlparse",
+    "description": "Automates from urllib.parse import urlparse pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 9.1,
+    "frequency": 4,
+    "occurrence_count": 28,
+    "projects": [
+      "AIBrain",
+      "ContentGen",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 4 projects, 28 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120509"
+  },
+  {
+    "pattern_key": ".bin",
+    "category": "file_patterns",
+    "skill_name": ".bin-.bin",
+    "description": "Automates .bin pattern found in 8 projects. Implements common .bin pattern.",
+    "priority_score": 8.9,
+    "frequency": 8,
+    "occurrence_count": 14,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 8 projects, 14 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119054"
+  },
+  {
+    "pattern_key": ".php",
+    "category": "file_patterns",
+    "skill_name": ".php-.php",
+    "description": "Automates .php pattern found in 10 projects. Implements common .php pattern.",
+    "priority_score": 8.8,
+    "frequency": 10,
+    "occurrence_count": 11,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 11 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118861"
+  },
+  {
+    "pattern_key": "python_import:import json as _json",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-json-as--json",
+    "description": "Automates import json as _json pattern found in 10 projects. Implements common python_import pattern.",
+    "priority_score": 8.8,
+    "frequency": 10,
+    "occurrence_count": 11,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "UsageDash",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 10 projects, 11 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119611"
+  },
+  {
+    "pattern_key": ".woff2",
+    "category": "file_patterns",
+    "skill_name": ".woff2-.woff2",
+    "description": "Automates .woff2 pattern found in 3 projects. Implements common .woff2 pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 68,
+    "projects": [
+      "dirKidSports",
+      "UsageDash",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 3 projects, 68 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119218"
+  },
+  {
+    "pattern_key": ".gz",
+    "category": "file_patterns",
+    "skill_name": ".gz-.gz",
+    "description": "Automates .gz pattern found in 3 projects. Implements common .gz pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 106,
+    "projects": [
+      "dirKidSports",
+      "AIBrain",
+      "mapmaker"
+    ],
+    "rationale": "Pattern appears in 3 projects, 106 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119245"
+  },
+  {
+    "pattern_key": "python_import:import io",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-io",
+    "description": "Automates import io pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 158,
+    "projects": [
+      "Demo",
+      "AIBrain",
+      "Personal-OS"
+    ],
+    "rationale": "Pattern appears in 3 projects, 158 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119580"
+  },
+  {
+    "pattern_key": "python_import:from dataclasses import dataclass",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-dataclasses-import-dataclass",
+    "description": "Automates from dataclasses import dataclass pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 155,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 3 projects, 155 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119937"
+  },
+  {
+    "pattern_key": "python_import:import argparse",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-argparse",
+    "description": "Automates import argparse pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 42,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "Personal-OS"
+    ],
+    "rationale": "Pattern appears in 3 projects, 42 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120081"
+  },
+  {
+    "pattern_key": "python_import:import urllib.parse",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-urllib.parse",
+    "description": "Automates import urllib.parse pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 25,
+    "projects": [
+      "Project Management",
+      "AIBrain",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 25 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120130"
+  },
+  {
+    "pattern_key": "python_import:from abc import ABC, abstractmethod",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-abc-import-abc,-abstractmethod",
+    "description": "Automates from abc import ABC, abstractmethod pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 68,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 3 projects, 68 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120179"
+  },
+  {
+    "pattern_key": "python_import:import pickle",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-pickle",
+    "description": "Automates import pickle pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 101,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 3 projects, 101 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120210"
+  },
+  {
+    "pattern_key": "python_import:import tempfile",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-tempfile",
+    "description": "Automates import tempfile pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 157,
+    "projects": [
+      "AIBrain",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 157 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120283"
+  },
+  {
+    "pattern_key": "python_import:import ast",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-ast",
+    "description": "Automates import ast pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 26,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 26 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120336"
+  },
+  {
+    "pattern_key": "python_import:import socket",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-socket",
+    "description": "Automates import socket pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 45,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 45 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120446"
+  },
+  {
+    "pattern_key": "python_import:import hashlib",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-hashlib",
+    "description": "Automates import hashlib pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 8.7,
+    "frequency": 3,
+    "occurrence_count": 59,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "Social-Content-Generator"
+    ],
+    "rationale": "Pattern appears in 3 projects, 59 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-28T10:16:04.298340"
+  },
+  {
+    "pattern_key": ".example",
+    "category": "file_patterns",
+    "skill_name": ".example-.example",
+    "description": "Automates .example pattern found in 9 projects. Implements common .example pattern.",
+    "priority_score": 8.4,
+    "frequency": 9,
+    "occurrence_count": 11,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "dirKidSports",
+      "smart-image-editor",
+      "AIBrain",
+      "ad-variations-generator",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 9 projects, 11 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119148"
+  },
+  {
+    "pattern_key": "python_import:from typing import Dict, List, Optional, Any",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-dict,-list,-optional,-any",
+    "description": "Automates from typing import Dict, List, Optional, Any pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 7.9,
+    "frequency": 4,
+    "occurrence_count": 16,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "Personal-OS",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 4 projects, 16 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119922"
+  },
+  {
+    "pattern_key": ".mdown",
+    "category": "file_patterns",
+    "skill_name": ".mdown-.mdown",
+    "description": "Automates .mdown pattern found in 6 projects. Implements common .mdown pattern.",
+    "priority_score": 7.8,
+    "frequency": 6,
+    "occurrence_count": 13,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 13 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118874"
+  },
+  {
+    "pattern_key": "python_import:from typing import List, Optional",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-list,-optional",
+    "description": "Automates from typing import List, Optional pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 7.8,
+    "frequency": 3,
+    "occurrence_count": 17,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "n8n bulk"
+    ],
+    "rationale": "Pattern appears in 3 projects, 17 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-28T10:16:04.297959"
+  },
+  {
+    "pattern_key": "python_import:from googleapiclient.discovery import build",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-googleapiclient.discovery-import-build",
+    "description": "Automates from googleapiclient.discovery import build pattern found in 5 projects. Implements common python_import pattern.",
+    "priority_score": 7.7,
+    "frequency": 5,
+    "occurrence_count": 14,
+    "projects": [
+      "Demo",
+      "YouTubeRAG",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 5 projects, 14 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119530"
+  },
+  {
+    "pattern_key": ".ico",
+    "category": "file_patterns",
+    "skill_name": ".ico-.ico",
+    "description": "Automates .ico pattern found in 7 projects. Implements common .ico pattern.",
+    "priority_score": 7.6,
+    "frequency": 7,
+    "occurrence_count": 11,
+    "projects": [
+      "UsageDash",
+      "smart-image-editor",
+      "ad-variations-generator",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 7 projects, 11 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119344"
+  },
+  {
+    "pattern_key": ".exe",
+    "category": "file_patterns",
+    "skill_name": ".exe-.exe",
+    "description": "Automates .exe pattern found in 4 projects. Implements common .exe pattern.",
+    "priority_score": 7.6,
+    "frequency": 4,
+    "occurrence_count": 15,
+    "projects": [
+      "smart-image-editor",
+      "AIBrain",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 4 projects, 15 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119367"
+  },
+  {
+    "pattern_key": ".sql",
+    "category": "file_patterns",
+    "skill_name": ".sql-.sql",
+    "description": "Automates .sql pattern found in 5 projects. Implements common .sql pattern.",
+    "priority_score": 7.4,
+    "frequency": 5,
+    "occurrence_count": 13,
+    "projects": [
+      "dirKidSports",
+      "UsageDash",
+      "AIBrain",
+      "mapmaker",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 5 projects, 13 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119191"
+  },
+  {
+    "pattern_key": ".applescript",
+    "category": "file_patterns",
+    "skill_name": ".applescript-.applescript",
+    "description": "Automates .applescript pattern found in 8 projects. Implements common .applescript pattern.",
+    "priority_score": 7.1,
+    "frequency": 8,
+    "occurrence_count": 8,
+    "projects": [
+      "promptSaver",
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "AIBrain",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 8 projects, 8 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118777"
+  },
+  {
+    "pattern_key": ".old",
+    "category": "file_patterns",
+    "skill_name": ".old-.old",
+    "description": "Automates .old pattern found in 6 projects. Implements common .old pattern.",
+    "priority_score": 6.9,
+    "frequency": 6,
+    "occurrence_count": 10,
+    "projects": [
+      "vendor-quote-tool",
+      "dirKidSports",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 10 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119093"
+  },
+  {
+    "pattern_key": ".nix",
+    "category": "file_patterns",
+    "skill_name": ".nix-.nix",
+    "description": "Automates .nix pattern found in 6 projects. Implements common .nix pattern.",
+    "priority_score": 6.6,
+    "frequency": 6,
+    "occurrence_count": 9,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 9 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118834"
+  },
+  {
+    "pattern_key": ".ps1",
+    "category": "file_patterns",
+    "skill_name": ".ps1-.ps1",
+    "description": "Automates .ps1 pattern found in 3 projects. Implements common .ps1 pattern.",
+    "priority_score": 6.6,
+    "frequency": 3,
+    "occurrence_count": 13,
+    "projects": [
+      "AIBrain",
+      "trading",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 3 projects, 13 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119383"
+  },
+  {
+    "pattern_key": ".iml",
+    "category": "file_patterns",
+    "skill_name": ".iml-.iml",
+    "description": "Automates .iml pattern found in 6 projects. Implements common .iml pattern.",
+    "priority_score": 6.3,
+    "frequency": 6,
+    "occurrence_count": 8,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 8 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118984"
+  },
+  {
+    "pattern_key": "python_import:import sqlite3",
+    "category": "code_patterns",
+    "skill_name": "python-import-import-sqlite3",
+    "description": "Automates import sqlite3 pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 6.3,
+    "frequency": 3,
+    "occurrence_count": 12,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 3 projects, 12 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120257"
+  },
+  {
+    "pattern_key": ".opts",
+    "category": "file_patterns",
+    "skill_name": ".opts-.opts",
+    "description": "Automates .opts pattern found in 6 projects. Implements common .opts pattern.",
+    "priority_score": 6.0,
+    "frequency": 6,
+    "occurrence_count": 7,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 7 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119135"
+  },
+  {
+    "pattern_key": ".db",
+    "category": "file_patterns",
+    "skill_name": ".db-.db",
+    "description": "Automates .db pattern found in 6 projects. Implements common .db pattern.",
+    "priority_score": 6.0,
+    "frequency": 6,
+    "occurrence_count": 7,
+    "projects": [
+      "YouTubeRAG",
+      "dirKidSports",
+      "UsageDash",
+      "AIBrain",
+      "n8n bulk",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 6 projects, 7 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119163"
+  },
+  {
+    "pattern_key": "python_import:from google.oauth2 import service_account",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-google.oauth2-import-service-account",
+    "description": "Automates from google.oauth2 import service_account pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 6.0,
+    "frequency": 3,
+    "occurrence_count": 11,
+    "projects": [
+      "Demo",
+      "AIBrain",
+      "Personal-OS"
+    ],
+    "rationale": "Pattern appears in 3 projects, 11 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119546"
+  },
+  {
+    "pattern_key": ".tmpl",
+    "category": "file_patterns",
+    "skill_name": ".tmpl-.tmpl",
+    "description": "Automates .tmpl pattern found in 4 projects. Implements common .tmpl pattern.",
+    "priority_score": 5.8,
+    "frequency": 4,
+    "occurrence_count": 9,
+    "projects": [
+      "AIBrain",
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 4 projects, 9 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119450"
+  },
+  {
+    "pattern_key": "python_import:from typing import List, Dict",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-list,-dict",
+    "description": "Automates from typing import List, Dict pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 5.8,
+    "frequency": 4,
+    "occurrence_count": 9,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "ContentGen",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 4 projects, 9 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119984"
+  },
+  {
+    "pattern_key": ".swf",
+    "category": "file_patterns",
+    "skill_name": ".swf-.swf",
+    "description": "Automates .swf pattern found in 6 projects. Implements common .swf pattern.",
+    "priority_score": 5.7,
+    "frequency": 6,
+    "occurrence_count": 6,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.118804"
+  },
+  {
+    "pattern_key": ".pegjs",
+    "category": "file_patterns",
+    "skill_name": ".pegjs-.pegjs",
+    "description": "Automates .pegjs pattern found in 6 projects. Implements common .pegjs pattern.",
+    "priority_score": 5.7,
+    "frequency": 6,
+    "occurrence_count": 6,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119011"
+  },
+  {
+    "pattern_key": ".jison",
+    "category": "file_patterns",
+    "skill_name": ".jison-.jison",
+    "description": "Automates .jison pattern found in 6 projects. Implements common .jison pattern.",
+    "priority_score": 5.7,
+    "frequency": 6,
+    "occurrence_count": 6,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119025"
+  },
+  {
+    "pattern_key": ".conf",
+    "category": "file_patterns",
+    "skill_name": ".conf-.conf",
+    "description": "Automates .conf pattern found in 6 projects. Implements common .conf pattern.",
+    "priority_score": 5.7,
+    "frequency": 6,
+    "occurrence_count": 6,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "n8n bulk",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 6 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119067"
+  },
+  {
+    "pattern_key": "python_import:from sqlalchemy.orm import relationship",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-sqlalchemy.orm-import-relationship",
+    "description": "Automates from sqlalchemy.orm import relationship pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 5.7,
+    "frequency": 3,
+    "occurrence_count": 10,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "n8n bulk"
+    ],
+    "rationale": "Pattern appears in 3 projects, 10 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119727"
+  },
+  {
+    "pattern_key": "python_import:from dataclasses import dataclass, asdict",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-dataclasses-import-dataclass,-asdict",
+    "description": "Automates from dataclasses import dataclass, asdict pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 5.7,
+    "frequency": 3,
+    "occurrence_count": 10,
+    "projects": [
+      "legiscraper",
+      "Personal-OS",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 3 projects, 10 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120162"
+  },
+  {
+    "pattern_key": "python_import:from threading import Lock",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-threading-import-lock",
+    "description": "Automates from threading import Lock pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 5.7,
+    "frequency": 3,
+    "occurrence_count": 10,
+    "projects": [
+      "AIBrain",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 10 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120476"
+  },
+  {
+    "pattern_key": ".template",
+    "category": "file_patterns",
+    "skill_name": ".template-.template",
+    "description": "Automates .template pattern found in 3 projects. Implements common .template pattern.",
+    "priority_score": 5.4,
+    "frequency": 3,
+    "occurrence_count": 9,
+    "projects": [
+      "Project Management",
+      "AIBrain",
+      "Personal-OS"
+    ],
+    "rationale": "Pattern appears in 3 projects, 9 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119259"
+  },
+  {
+    "pattern_key": ".ttf",
+    "category": "file_patterns",
+    "skill_name": ".ttf-.ttf",
+    "description": "Automates .ttf pattern found in 4 projects. Implements common .ttf pattern.",
+    "priority_score": 5.2,
+    "frequency": 4,
+    "occurrence_count": 7,
+    "projects": [
+      "dirKidSports",
+      "UsageDash",
+      "trading",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 4 projects, 7 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119204"
+  },
+  {
+    "pattern_key": "python_import:from urllib.parse import quote",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-urllib.parse-import-quote",
+    "description": "Automates from urllib.parse import quote pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 5.1,
+    "frequency": 3,
+    "occurrence_count": 8,
+    "projects": [
+      "AIBrain",
+      "ContentGen",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 8 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120492"
+  },
+  {
+    "pattern_key": ".LICENSE",
+    "category": "file_patterns",
+    "skill_name": ".license-.license",
+    "description": "Automates .LICENSE pattern found in 5 projects. Implements common .LICENSE pattern.",
+    "priority_score": 5.0,
+    "frequency": 5,
+    "occurrence_count": 5,
+    "projects": [
+      "vendor-quote-tool",
+      "smart-image-editor",
+      "ad-variations-generator",
+      "mapmaker",
+      "ad-scraper-analyzer"
+    ],
+    "rationale": "Pattern appears in 5 projects, 5 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119107"
+  },
+  {
+    "pattern_key": "pip:python-dotenv",
+    "category": "tool_usage",
+    "skill_name": "pip-python-dotenv",
+    "description": "Automates python-dotenv pattern found in 5 projects. Manages python-dotenv integration and configuration.",
+    "priority_score": 5.0,
+    "frequency": 5,
+    "occurrence_count": 5,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "ContentGen",
+      "HOA",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 5 projects, 5 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.122003"
+  },
+  {
+    "pattern_key": "pip:requests",
+    "category": "tool_usage",
+    "skill_name": "pip-requests",
+    "description": "Automates requests pattern found in 5 projects. Manages requests integration and configuration.",
+    "priority_score": 5.0,
+    "frequency": 5,
+    "occurrence_count": 5,
+    "projects": [
+      "legiscraper",
+      "AIBrain",
+      "ContentGen",
+      "HOA",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 5 projects, 5 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.122024"
+  },
+  {
+    "pattern_key": "python_import:from google.oauth2.credentials import Credentials",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-google.oauth2.credentials-import-credentials",
+    "description": "Automates from google.oauth2.credentials import Credentials pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 4.9,
+    "frequency": 4,
+    "occurrence_count": 6,
+    "projects": [
+      "Demo",
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 4 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119563"
+  },
+  {
+    "pattern_key": "python_import:from sqlalchemy.ext.declarative import declarative_base",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-sqlalchemy.ext.declarative-import-declarative-base",
+    "description": "Automates from sqlalchemy.ext.declarative import declarative_base pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 4.9,
+    "frequency": 4,
+    "occurrence_count": 6,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "n8n bulk",
+      "HOA"
+    ],
+    "rationale": "Pattern appears in 4 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119695"
+  },
+  {
+    "pattern_key": "python_import:from datetime import datetime, timezone",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-datetime-import-datetime,-timezone",
+    "description": "Automates from datetime import datetime, timezone pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 4.8,
+    "frequency": 3,
+    "occurrence_count": 7,
+    "projects": [
+      "YouTubeRAG",
+      "AIBrain",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 3 projects, 7 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120051"
+  },
+  {
+    "pattern_key": ".gyp",
+    "category": "file_patterns",
+    "skill_name": ".gyp-.gyp",
+    "description": "Automates .gyp pattern found in 4 projects. Implements common .gyp pattern.",
+    "priority_score": 4.6,
+    "frequency": 4,
+    "occurrence_count": 5,
+    "projects": [
+      "UsageDash",
+      "party-directory-platform",
+      "mapmaker",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 4 projects, 5 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119329"
+  },
+  {
+    "pattern_key": ".pdl",
+    "category": "file_patterns",
+    "skill_name": ".pdl-.pdl",
+    "description": "Automates .pdl pattern found in 3 projects. Implements common .pdl pattern.",
+    "priority_score": 4.5,
+    "frequency": 3,
+    "occurrence_count": 6,
+    "projects": [
+      "mapmaker",
+      "OwnerScraper",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 3 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119470"
+  },
+  {
+    "pattern_key": "python_import:from urllib.parse import urljoin, urlparse",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-urllib.parse-import-urljoin,-urlparse",
+    "description": "Automates from urllib.parse import urljoin, urlparse pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 4.5,
+    "frequency": 3,
+    "occurrence_count": 6,
+    "projects": [
+      "vendor-quote-tool",
+      "scrapers",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119860"
+  },
+  {
+    "pattern_key": "python_import:from typing import List, Dict, Any, Optional",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-list,-dict,-any,-optional",
+    "description": "Automates from typing import List, Dict, Any, Optional pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 4.5,
+    "frequency": 3,
+    "occurrence_count": 6,
+    "projects": [
+      "AIBrain",
+      "n8n bulk",
+      "Personal-OS"
+    ],
+    "rationale": "Pattern appears in 3 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120194"
+  },
+  {
+    "pattern_key": "python_import:from googleapiclient.errors import HttpError",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-googleapiclient.errors-import-httperror",
+    "description": "Automates from googleapiclient.errors import HttpError pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 4.5,
+    "frequency": 3,
+    "occurrence_count": 6,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 3 projects, 6 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120242"
+  },
+  {
+    "pattern_key": "python_import:from fastapi.middleware.cors import CORSMiddleware",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-fastapi.middleware.cors-import-corsmiddleware",
+    "description": "Automates from fastapi.middleware.cors import CORSMiddleware pattern found in 4 projects. Implements common python_import pattern.",
+    "priority_score": 4.3,
+    "frequency": 4,
+    "occurrence_count": 4,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "AIBrain",
+      "n8n bulk"
+    ],
+    "rationale": "Pattern appears in 4 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119628"
+  },
+  {
+    "pattern_key": "pip:google-api-python-client",
+    "category": "tool_usage",
+    "skill_name": "pip-google-api-python-client",
+    "description": "Automates google-api-python-client pattern found in 4 projects. Manages google-api-python-client integration and configuration.",
+    "priority_score": 4.3,
+    "frequency": 4,
+    "occurrence_count": 4,
+    "projects": [
+      "Demo",
+      "YouTubeRAG",
+      "AIBrain",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 4 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121789"
+  },
+  {
+    "pattern_key": "npm:react-dom",
+    "category": "tool_usage",
+    "skill_name": "npm-react-dom",
+    "description": "Automates react-dom pattern found in 4 projects. Manages react-dom integration and configuration.",
+    "priority_score": 4.3,
+    "frequency": 4,
+    "occurrence_count": 4,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "ad-variations-generator",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 4 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121822"
+  },
+  {
+    "pattern_key": "npm:tailwindcss",
+    "category": "tool_usage",
+    "skill_name": "npm-tailwindcss",
+    "description": "Automates tailwindcss pattern found in 4 projects. Manages tailwindcss integration and configuration.",
+    "priority_score": 4.3,
+    "frequency": 4,
+    "occurrence_count": 4,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "ad-variations-generator",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 4 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121964"
+  },
+  {
+    "pattern_key": "pip:beautifulsoup4",
+    "category": "tool_usage",
+    "skill_name": "pip-beautifulsoup4",
+    "description": "Automates beautifulsoup4 pattern found in 4 projects. Manages beautifulsoup4 integration and configuration.",
+    "priority_score": 4.3,
+    "frequency": 4,
+    "occurrence_count": 4,
+    "projects": [
+      "legiscraper",
+      "AIBrain",
+      "ContentGen",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 4 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.122041"
+  },
+  {
+    "pattern_key": ".prisma",
+    "category": "file_patterns",
+    "skill_name": ".prisma-.prisma",
+    "description": "Automates .prisma pattern found in 3 projects. Implements common .prisma pattern.",
+    "priority_score": 4.2,
+    "frequency": 3,
+    "occurrence_count": 5,
+    "projects": [
+      "dirKidSports",
+      "UsageDash",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 3 projects, 5 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119231"
+  },
+  {
+    "pattern_key": "python_import:from google.auth.transport.requests import Request",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-google.auth.transport.requests-import-request",
+    "description": "Automates from google.auth.transport.requests import Request pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 4.2,
+    "frequency": 3,
+    "occurrence_count": 5,
+    "projects": [
+      "AIBrain",
+      "Personal-OS",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 3 projects, 5 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.120226"
+  },
+  {
+    "pattern_key": ".APACHE2",
+    "category": "file_patterns",
+    "skill_name": ".apache2-.apache2",
+    "description": "Automates .APACHE2 pattern found in 3 projects. Implements common .APACHE2 pattern.",
+    "priority_score": 3.9,
+    "frequency": 3,
+    "occurrence_count": 4,
+    "projects": [
+      "AIBrain",
+      "mapmaker",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119421"
+  },
+  {
+    "pattern_key": ".MIT",
+    "category": "file_patterns",
+    "skill_name": ".mit-.mit",
+    "description": "Automates .MIT pattern found in 3 projects. Implements common .MIT pattern.",
+    "priority_score": 3.9,
+    "frequency": 3,
+    "occurrence_count": 4,
+    "projects": [
+      "AIBrain",
+      "mapmaker",
+      "OwnerScraper"
+    ],
+    "rationale": "Pattern appears in 3 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119436"
+  },
+  {
+    "pattern_key": "python_import:from typing import List, Dict, Optional, Tuple",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-typing-import-list,-dict,-optional,-tuple",
+    "description": "Automates from typing import List, Dict, Optional, Tuple pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 3.9,
+    "frequency": 3,
+    "occurrence_count": 4,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "ContentGen"
+    ],
+    "rationale": "Pattern appears in 3 projects, 4 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119845"
+  },
+  {
+    "pattern_key": ".local",
+    "category": "file_patterns",
+    "skill_name": ".local-.local",
+    "description": "Automates .local pattern found in 3 projects. Implements common .local pattern.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "dirKidSports",
+      "ad-variations-generator",
+      "dirTechStack"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119177"
+  },
+  {
+    "pattern_key": "python_import:from pydantic_settings import BaseSettings",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-pydantic-settings-import-basesettings",
+    "description": "Automates from pydantic_settings import BaseSettings pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "n8n bulk"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119647"
+  },
+  {
+    "pattern_key": "python_import:from sqlalchemy import create_engine",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-sqlalchemy-import-create-engine",
+    "description": "Automates from sqlalchemy import create_engine pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "n8n bulk"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119678"
+  },
+  {
+    "pattern_key": "python_import:from sqlalchemy.orm import sessionmaker",
+    "category": "code_patterns",
+    "skill_name": "python-import-from-sqlalchemy.orm-import-sessionmaker",
+    "description": "Automates from sqlalchemy.orm import sessionmaker pattern found in 3 projects. Implements common python_import pattern.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "vendor-quote-tool",
+      "YouTubeRAG",
+      "n8n bulk"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.119711"
+  },
+  {
+    "pattern_key": "npm:lucide-react",
+    "category": "tool_usage",
+    "skill_name": "npm-lucide-react",
+    "description": "Automates lucide-react pattern found in 3 projects. Manages lucide-react integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121841"
+  },
+  {
+    "pattern_key": "npm:clsx",
+    "category": "tool_usage",
+    "skill_name": "npm-clsx",
+    "description": "Automates clsx pattern found in 3 projects. Manages clsx integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121859"
+  },
+  {
+    "pattern_key": "npm:@types/react",
+    "category": "tool_usage",
+    "skill_name": "npm-@types/react",
+    "description": "Automates @types/react pattern found in 3 projects. Manages @types/react integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121878"
+  },
+  {
+    "pattern_key": "npm:@types/react-dom",
+    "category": "tool_usage",
+    "skill_name": "npm-@types/react-dom",
+    "description": "Automates @types/react-dom pattern found in 3 projects. Manages @types/react-dom integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121895"
+  },
+  {
+    "pattern_key": "npm:autoprefixer",
+    "category": "tool_usage",
+    "skill_name": "npm-autoprefixer",
+    "description": "Automates autoprefixer pattern found in 3 projects. Manages autoprefixer integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "ad-variations-generator"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121928"
+  },
+  {
+    "pattern_key": "npm:postcss",
+    "category": "tool_usage",
+    "skill_name": "npm-postcss",
+    "description": "Automates postcss pattern found in 3 projects. Manages postcss integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "promptSaver",
+      "dirKidSports",
+      "ad-variations-generator"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121946"
+  },
+  {
+    "pattern_key": "pip:pandas",
+    "category": "tool_usage",
+    "skill_name": "pip-pandas",
+    "description": "Automates pandas pattern found in 3 projects. Manages pandas integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "YouTubeRAG",
+      "legiscraper",
+      "HOA"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.121985"
+  },
+  {
+    "pattern_key": "npm:@tailwindcss/postcss",
+    "category": "tool_usage",
+    "skill_name": "npm-@tailwindcss/postcss",
+    "description": "Automates @tailwindcss/postcss pattern found in 3 projects. Manages @tailwindcss/postcss integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "smart-image-editor",
+      "ad-variations-generator",
+      "party-directory-platform"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-25T20:57:19.122059"
+  },
+  {
+    "pattern_key": "pip:google-auth-httplib2",
+    "category": "tool_usage",
+    "skill_name": "pip-google-auth-httplib2",
+    "description": "Automates google-auth-httplib2 pattern found in 3 projects. Manages google-auth-httplib2 integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "Demo",
+      "AIBrain",
+      "Social-Content-Generator"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-28T10:16:04.299704"
+  },
+  {
+    "pattern_key": "pip:google-auth-oauthlib",
+    "category": "tool_usage",
+    "skill_name": "pip-google-auth-oauthlib",
+    "description": "Automates google-auth-oauthlib pattern found in 3 projects. Manages google-auth-oauthlib integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "Demo",
+      "AIBrain",
+      "Social-Content-Generator"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-28T10:16:04.299728"
+  },
+  {
+    "pattern_key": "pip:lxml",
+    "category": "tool_usage",
+    "skill_name": "pip-lxml",
+    "description": "Automates lxml pattern found in 3 projects. Manages lxml integration and configuration.",
+    "priority_score": 3.6,
+    "frequency": 3,
+    "occurrence_count": 3,
+    "projects": [
+      "legiscraper",
+      "Social-Content-Generator",
+      "scrapers"
+    ],
+    "rationale": "Pattern appears in 3 projects, 3 total occurrences",
+    "recommended_structure": {
+      "SKILL.md": "Main skill instructions",
+      "scripts/": "Automation scripts if needed",
+      "references/": "Reference files and examples"
+    },
+    "created_date": "2025-10-28T10:16:04.300019"
+  }
+]
