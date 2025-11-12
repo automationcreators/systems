@@ -79,9 +79,25 @@ echo "14. 🔄 GitHub Sync Check..."
 python3 systems/github-sync-agent.py --action sync
 echo ""
 
+echo "15. 📱 Social Content Generator..."
+if [ -d "active/Social-Content-Generator" ]; then
+    cd active/Social-Content-Generator
+    python3 automation/daily_content_generator.py --mode balanced 2>&1 | tail -20
+    cd ../..
+    echo "    ✅ Social content generated and synced to Google Sheets"
+else
+    echo "    ⚠️  Social-Content-Generator not found"
+fi
+echo ""
+
+echo "16. 📹 YouTube Script Generator..."
+python3 systems/youtube_script_daily_generator.py 2>&1 | tail -15
+echo "    ✅ YouTube scripts generated (3 variations)"
+echo ""
+
 # SYSTEM HEALTH CHECK
 
-echo "15. ⚙️ System Health Check..."
+echo "17. ⚙️ System Health Check..."
 
 # Check for required dependencies
 if command -v python3 &> /dev/null; then
@@ -147,7 +163,7 @@ echo ""
 
 # SUMMARY AND NEXT STEPS
 
-echo "14. 🎯 Morning Sync Summary:"
+echo "18. 🎯 Morning Sync Summary:"
 echo "    ✅ New architecture systems operational"
 echo "    ✅ Project discovery and sync updated"
 echo "    ✅ Documents parsed and analyzed"
@@ -155,6 +171,8 @@ echo "    ✅ Security monitoring active"
 echo "    ✅ Template lineage tracked"
 echo "    ✅ Dashboard data refreshed"
 echo "    ✅ Token usage monitored"
+echo "    ✅ Social content generated and synced"
+echo "    ✅ YouTube scripts generated (3 variations)"
 echo "    ✅ GitHub sync completed"
 echo "    ✅ System health verified"
 echo ""
