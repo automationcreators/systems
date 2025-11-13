@@ -33,3 +33,14 @@ ENV/
 
 # Local config files that might contain sensitive info
 *-config.json
+
+# Environment variables and credentials
+.env
+.env.*
+*.env
+credentials/
+*credentials.json
+*.pickle
+*-credentials.json
+*.pem
+*.key
